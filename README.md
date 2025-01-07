@@ -1,34 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chung Kiet Lam
-======================================================================================================================================
 
-Web Developer And Data Analysts
--------------------------------
+# Hi, I'm Chung Kiet Lam! 👋
+✨ Bringing the harmony and creativity of Vietnam to every pixel I code as a passionate frontend developer.
 
-I love communicating with people around the world, also loving to help out people in need. Currently, i am a beginner in web developing. If you want to have some good talks, hit me up anytime ^^ !!
+---
 
-* 🌍  I'm based in Ho Chi Minh City
-* ✉️  You can contact me at [ckietlam@gmail.com](mailto:ckietlam@gmail.com)
-* 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on Web Related Projects
-* ⚡  Out in the world spreading positivities
+### ✨ About Me
+I love connecting with people from all around the world and enjoy lending a helping hand whenever I can. If you're up for a great conversation, feel free to reach out anytime! 😊
 
-### Skills
+- 🌍 Based in Ho Chi Minh City, Vietnam  
+- 🤝 Open to collaborating on web-related projects  
+- ⚡ Passionate about spreading positivity and making a difference  
+- 🌐 Multilingual: Proficient in Japanese (JLPT N3) and English (IELTS 6.5)  
+- 🎮 Hobby: In my free time, I enjoy gaming and exploring new tech trends!
 
+---
 
+### 🛠️ Skills
+
+**Frontend Development**  
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
 </p>
 
+**UI/UX Design**  
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma (UI/UX)" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  </a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://discord.com/users/justrc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/leo.chung.56808/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ckietlam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### 📬 Contact Me
 
-### Badges
+If you'd like to work together or just say hi, feel free to reach out:  
 
-<b>My GitHub Stats</b>
+<p align="left">
+  <a href="https://discord.com/users/justrc" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+  <a href="https://www.facebook.com/leo.chung.56808/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+  <a href="https://www.github.com/ckietlam" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="mailto:ckietlam@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</p>
 
-<a href="http://www.github.com/ckietlam"><img src="https://github-readme-stats.vercel.app/api?username=ckietlam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ckietlam's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/ckietlam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ckietlam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📊 My GitHub Stats
 
+<p align="center">
+  <a href="http://www.github.com/ckietlam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ckietlam&theme=github_dark&utcOffset=8" alt="ckietlam's Productive Time" />
+  </a>
+  <a href="http://www.github.com/ckietlam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ckietlam&theme=github_dark" alt="ckietlam's Summary Stats" />
+  </a>
+</p>
